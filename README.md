@@ -16,9 +16,9 @@
  <section>
     <h2>Minhas Estatísticas</h2>
     <div>
-      <img height="148em" src="https://github-readme-stats.vercel.app/api?username=oliveirathais&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirathais&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;">
-    <img height="148em" src="https://github-readme-streak-stats.herokuapp.com?user=oliveirathais&amp;theme=react&amp;date_format=j%20M%5B%20Y%5D&amp;fire=DD0000&amp;ring=52DD81&amp;dates=52DD81&amp;stroke=ABCFDD" style="max-width: 100%;">
+      <img height="111em" src="https://github-readme-stats.vercel.app/api?username=oliveirathais&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirathais&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;">
+    <img height="111em" src="https://github-readme-streak-stats.herokuapp.com?user=oliveirathais&amp;theme=react&amp;date_format=j%20M%5B%20Y%5D&amp;fire=DD0000&amp;ring=52DD81&amp;dates=52DD81&amp;stroke=ABCFDD" style="max-width: 100%;">
   </div>
  </section>
   
